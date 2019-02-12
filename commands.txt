@@ -1,0 +1,4 @@
+git init
+git remote add origin "https://github.com/hadisultan/test.git"
+git pull origin master
+git status
