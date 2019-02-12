@@ -2,3 +2,5 @@ git init
 git remote add origin "https://github.com/hadisultan/test.git"
 git pull origin master
 git status
+git add filename
+git commit -m "Commit by Hadi, added new files"
