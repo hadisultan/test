@@ -5,7 +5,7 @@ git status
 git add filename
 git commit -m "Commit by Hadi, added new files"
 git add -A
-git commit -a
+git commit -a -m
 git log
 git branch branchname
 git checkout branchname
