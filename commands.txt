@@ -4,3 +4,9 @@ git pull origin master
 git status
 git add filename
 git commit -m "Commit by Hadi, added new files"
+git add -A
+git commit -a
+git log
+git branch branchname
+git checkout branchname
+git merge branchname
